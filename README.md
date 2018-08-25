@@ -28,3 +28,5 @@ See the `doc` directory. Use `make` to generate the pdf files.
 See `programs` for the Part III GPIO program. This can be assembled using `assemble` from `src`. It has been emulated and tested on the Raspberry Pi and works as intended.
 
 ## Extension: 7-Segment LED Display
+
+See `extension.c` in `programs` which contains main functionality of the Rapsberry Pi LED extension.
